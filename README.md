@@ -83,9 +83,12 @@ endmodule
 
 
 
+
+
+
+
 Testbench Code for 4 bit Full Adder
 ```
-
 module test_4bit;
 reg [3:0] A;
 reg [3:0] B; reg C0;
