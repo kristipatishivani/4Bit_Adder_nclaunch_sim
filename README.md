@@ -79,14 +79,7 @@ endmodule
 
 •	fa_4bit.v → Top Module for Adding 4-bit Inputs. 
 
-•	fa_4bit_test.v → Test bench 
-
-
-
-
-
-
-
+•	fa_4bit_test.v→ Test bench 
 Testbench Code for 4 bit Full Adder
 ```
 module test_4bit;
