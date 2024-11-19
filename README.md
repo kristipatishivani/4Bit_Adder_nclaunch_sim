@@ -1,5 +1,5 @@
 # Exp-1
-# EXP1: 4 Bit Adder functionality verification
+# 4 Bit Adder functionality verification
 
 
 ## Aim:
