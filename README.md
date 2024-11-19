@@ -152,7 +152,6 @@ or
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
 
-
 ### Fig 7: Nclaunch Window
 ![Screenshot 2024-10-05 083444](https://github.com/user-attachments/assets/59e4320a-55d6-49d2-a720-93149b93d4a3)
 
