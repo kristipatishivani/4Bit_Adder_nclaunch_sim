@@ -218,6 +218,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 ### Fig 12: Simulation Waveform Window
 ![image](https://github.com/user-attachments/assets/ee8e5488-ea91-4386-b54f-bb3bc113aed6)
+# Result
+The functionality of a 4 bitadder is verified using test bench and simulation tool
 
 
 
