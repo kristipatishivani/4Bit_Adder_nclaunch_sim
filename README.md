@@ -59,7 +59,6 @@ endmodule
 ```
 Verilog Code for 4 Bit Full Adder
 ```
-
 module fulladd_4bit(A,B,C0,S,C4);
 input C0,[3:0] A,B;
 output C4,[3:0] S;
@@ -229,6 +228,9 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 ### Fig 12: Simulation Waveform Window
 ![image](https://github.com/user-attachments/assets/377a8a91-ec00-475d-995f-d068ee9106e3)
 
+Result:
+
+  The functionality of a 4-bit adder was successfully verified using a test bench and simulated with the nclaunch tool.
 
 
 
