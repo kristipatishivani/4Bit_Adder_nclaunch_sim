@@ -82,6 +82,8 @@ endmodule
 
 •	fa_4bit_test.v → Test bench 
 
+
+
 Testbench Code for 4 bit Full Adder
 ```
 
