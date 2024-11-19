@@ -49,7 +49,6 @@ Note : File name should be with HDL Extension
 
 Verilog code for 1 Bit Full adder
 ```
-
 module full_adder(A,B,CIN,S,COUT);
 input A,B,CIN;
 output S,COUT;
@@ -69,8 +68,6 @@ full_adder fa2 (A[2],B[2],C2,S[2],C3);
 full_adder fa3 (A[3],B[3],C3,S[3],C4);
 endmodule
 ```
-
-
 ### a) Verify the Functionality 
 
 	Three Codes shall be written for implementation of 4-bit Adder as follows, 
