@@ -201,6 +201,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 
 
+
+
 ### Fig 9: Elaboration Launch Option
 ![Screenshot 2024-10-05 083554](https://github.com/user-attachments/assets/494bd22e-41e2-45b2-b90e-14d16d7638cc)
 
