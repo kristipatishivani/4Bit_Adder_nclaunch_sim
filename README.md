@@ -152,8 +152,6 @@ or
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
-
-
 ### Fig 7: Nclaunch Window
 ![Screenshot 2024-10-05 083444](https://github.com/user-attachments/assets/59e4320a-55d6-49d2-a720-93149b93d4a3)
 
@@ -198,11 +196,6 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 5.	It also establishes net connectivity and prepares all of this for simulation
    
 	After elaboration the file will come under snapshot. Select the test bench and elaborate it.
-
-
-
-
-
 ### Fig 9: Elaboration Launch Option
 ![Screenshot 2024-10-05 083554](https://github.com/user-attachments/assets/494bd22e-41e2-45b2-b90e-14d16d7638cc)
 
